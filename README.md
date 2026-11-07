@@ -38,6 +38,7 @@
 
 ### 📱 Dự Án Tiêu Biểu (Featured Projects)
 
+- ⚡ **[xiaomi-rom-convert-studio](https://github.com/Dangvd1902/xiaomi-rom-convert-studio)**: Tool tự động hóa 100% quy trình tạo bản ROM Convert Quốc tế / Đài Loan nạp qua Qualcomm EDL 9008 (Vá GPT CRC32, Dual-Slot A/B Sync, Firehose No-Auth).
 - 📱 **[device_xiaomi_duchamp](https://github.com/Dangvd1902/device_xiaomi_duchamp)**: Device Tree chính thức cho POCO X6 Pro / Redmi K70E (`duchamp`) trên Android 15 (PixelOS 15), hỗ trợ 120Hz mượt mà & tối ưu Dalvik 12GB RAM.
 - 📦 **[vendor_xiaomi_duchamp](https://github.com/Dangvd1902/vendor_xiaomi_duchamp)**: Bộ thư viện Proprietary Vendor MediaTek mt6897 đã được vá tương thích ABI Android 15 (`V6-ndk`, `keymint-V4`, `sensors-V3`).
 - 🤖 **Multi-Worker AI Farm**: Hệ sinh thái điều phối tải 4 Worker qua Tailscale Mesh cho các tác vụ suy luận AI cục bộ & phân tích lỗi biên dịch AOSP thời gian thực.
@@ -53,6 +54,15 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dangvd1902&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
+
+---
+
+### ⚖️ Tuyên Bố Miễn Trừ Trách Nhiệm Chung (General Disclaimer)
+
+> [!WARNING]
+> Mọi dự án mã nguồn, công cụ, cấu hình Device Tree / Vendor và tài liệu trên tài khoản này đều được nghiên cứu và phát triển **độc quyền cho mục đích học thuật, nghiên cứu và bảo trì thiết bị cá nhân**. 
+> - Tác giả hoàn toàn không chịu trách nhiệm đối với bất kỳ rủi ro nào về phần cứng, mất dữ liệu, hoặc từ chối bảo hành từ nhà sản xuất phát sinh trong quá trình can thiệp hệ thống.
+> - Toàn bộ bản quyền nhãn hiệu và tài nguyên phần mềm gốc thuộc về các chủ sở hữu tương ứng (Xiaomi, MediaTek, Qualcomm, Google).
 
 ---
 
