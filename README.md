@@ -37,9 +37,11 @@
 
 ### 📱 Dự Án Tiêu Biểu (Featured Projects)
 
+- 🚀 **[android_device_xiaomi_mayfly](https://github.com/Dangvd1902/android_device_xiaomi_mayfly)**: Device Tree cho Xiaomi 12S (mayfly, Snapdragon 8+ Gen 1), hỗ trợ Android 15 (PixelOS) và Android 17 (RisingOS 9) với đầy đủ bản vá gói và bảo mật.
+- 🧩 **[android_device_xiaomi_sm8450-common](https://github.com/Dangvd1902/android_device_xiaomi_sm8450-common)**: Nền tảng Common Device Tree cho dòng Xiaomi Snapdragon 8 Gen 1 / 8+ Gen 1 (sm8450), vá lỗi AIDL Binder Touch Service.
 - ⚡ **[xiaomi-rom-convert-studio](https://github.com/Dangvd1902/xiaomi-rom-convert-studio)**: Tool tự động hóa 100% quy trình tạo bản ROM Convert Quốc tế / Đài Loan nạp qua Qualcomm EDL 9008 (Vá GPT CRC32, Dual-Slot A/B Sync, Firehose No-Auth).
-- 📱 **[device_xiaomi_duchamp](https://github.com/Dangvd1902/device_xiaomi_duchamp)**: Device Tree chính thức cho POCO X6 Pro / Redmi K70E (`duchamp`) trên Android 15 (PixelOS 15), hỗ trợ 120Hz mượt mà & tối ưu Dalvik 12GB RAM.
-- 📦 **[vendor_xiaomi_duchamp](https://github.com/Dangvd1902/vendor_xiaomi_duchamp)**: Bộ thư viện Proprietary Vendor MediaTek mt6897 đã được vá tương thích ABI Android 15 (`V6-ndk`, `keymint-V4`, `sensors-V3`).
+- 📱 **[device_xiaomi_duchamp](https://github.com/Dangvd1902/device_xiaomi_duchamp)**: Device Tree chính thức cho POCO X6 Pro / Redmi K70E (duchamp) trên Android 15 (PixelOS 15), hỗ trợ 120Hz mượt mà & tối ưu Dalvik 12GB RAM.
+- 📦 **[vendor_xiaomi_duchamp](https://github.com/Dangvd1902/vendor_xiaomi_duchamp)**: Bộ thư viện Proprietary Vendor MediaTek mt6897 đã được vá tương thích ABI Android 15 (V6-ndk, keymint-V4, sensors-V3).
 - 🤖 **Multi-Worker AI Farm**: Hệ sinh thái điều phối tải 4 Worker qua Tailscale Mesh cho các tác vụ suy luận AI cục bộ & phân tích lỗi biên dịch AOSP thời gian thực.
 
 ---
