@@ -5,7 +5,6 @@
 <div align="center">
 
 [![GitHub followers](https://img.shields.io/github/followers/Dangvd1902?label=Follow&style=for-the-badge&logo=github&color=24292e)](https://github.com/Dangvd1902)
-[![Gmail](https://img.shields.io/badge/Gmail-dangvd.uah14%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dangvd.uah14@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=Dangvd1902&style=for-the-badge&color=blueviolet)](https://github.com/Dangvd1902)
 
 </div>
