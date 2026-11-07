@@ -18,7 +18,7 @@
 - 🧠 **Cơ sở hạ tầng AI**: Thiết kế & vận hành Cụm AI 4-Worker Cluster (DeepSeek-Coder-V2 MoE 16B, Qwen2.5-Coder, RTX 2000 Ada Multi-GPU @ Tailscale Mesh).
 - ⚡ **Thiết bị tiêu biểu**:
   - **POCO X6 Pro / Redmi K70E (`duchamp`)**: MediaTek Dimensity 8300 Ultra (`mt6897`) - Android 15 Bringup.
-  - **Xiaomi 12 (`mayfly`)**: Qualcomm Snapdragon 8 Gen 1 (`sm8450`) - RisingOS 17 Bringup.
+  - **Xiaomi 12S (`mayfly`)**: Qualcomm Snapdragon 8+ Gen 1 (`sm8475`) - RisingOS 17 Bringup.
 - 🔭 Đam mê tối ưu hóa hiệu năng cấp nhân Linux, compiler toolchain (Soong, Ninja, Siso) và tự động hóa tác vụ Agentic AI.
 
 ---
